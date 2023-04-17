@@ -24,7 +24,7 @@ export { HeroDark as Dark };
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "phoenix-ceri";
 
 // Blog link icon (imported above)
 export const Blog = <FaLink />;
@@ -34,7 +34,7 @@ export const Blog = <FaLink />;
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I enjoy learning about technology and helping others use it to improve their lives and be more productive. I built this site with React, React Bootstrap, Redux, and the GitHub REST API.";
+  "I have been programming as a hobby for about 6 years now, But just recently started making a career out of it. I am a knowledge driven person who learns quickly. I am known to be highly organised and effective in my work.Outside the professinal world; I spend my time building computers, 3d printing, Gaming, and streaming said games." ;
 
 /* Skills
  ************************************************************** 
@@ -73,34 +73,37 @@ export const skillData = [
   },
   {
     id: 7,
-    skill: <SiRedux className="display-4" />,
-    name: "Redux",
-  },
-  {
-    id: 8,
     skill: <FaGitAlt className="display-4" />,
     name: "Git",
   },
   {
-    id: 9,
+    id: 8,
     skill: <FaGithubSquare className="display-4" />,
     name: "GitHub",
   },
 ];
 
 // Resume link (string - "https://YourResumeUrl") - I am using CloudFront to share my resume (https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
-export const resume = null;
+export const resume = "https://drive.google.com/uc?export=download&id=1XauYvOSqace3ZFD9fTy1Y6gKON5Jr3n_";
 
 /* Projects
  ************************************************************** 
   List the repo names (string - "your-repo-name") you want to include (they will be sorted alphabetically). If empty, only the first 3 will be included.
 */
-export const filteredProjects = ["example-1", "example-2", "example-3"];
+export const filteredProjects = ["FoodieCentral", "notesapp", "WeatherOrNot"];
 
 // Replace the defualt GitHub image for matching repos below (images imported above - lines 13-14)
 export const projectCardImages = [
   {
-    name: "example-1",
+    name: "FoodieCentral",
+    image: Logo,
+  },
+  {
+    name: "notesapp",
+    image: Logo,
+  },
+  {
+    name: "WeatherOrNot",
     image: Logo,
   },
 ];
@@ -110,4 +113,4 @@ export const projectCardImages = [
   Add your formspree endpoint below.
   https://formspree.io/
 */
-export const formspreeUrl = "https://formspree.io/f/YourEndpoint";
+export const formspreeUrl = "https://formspree.io/f/xoqzyaev";
