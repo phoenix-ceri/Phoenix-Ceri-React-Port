@@ -8,7 +8,7 @@ import {
   FaGithubSquare,
   FaLink,
 } from "react-icons/fa";
-import { SiJavascript, SiStyledcomponents, SiRedux } from "react-icons/si";
+import { SiJavascript, SiStyledcomponents, } from "react-icons/si";
 
 // Projects Images (add your images to the images directory and import below)
 import Logo from "./images/logo.svg";
