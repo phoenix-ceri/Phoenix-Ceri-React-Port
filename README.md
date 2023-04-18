@@ -13,19 +13,19 @@
   * [Credits](#credits)
 
   ## Description
-  This is the early version of my profecinal react porfolio,
+  This is the early version of my professional react portfolio,
 
   ## Installation
   Open the following link to view the page :
 
   ## Usage
-  Toggle light or dark mode(dark by defalt), View my Projects, Download my resume
+  Toggle light or dark mode(dark by default), View my Projects, Download my resume
 
   ## Licenses
     This project is covered under the MIT license. To learn more about what this means, click the license button at the top.
 
   ## Contributing
-  No Controbutions are nessicary
+  No Contributions are necessary
 
   ## Tests
   n/a
