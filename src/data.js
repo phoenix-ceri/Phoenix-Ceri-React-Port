@@ -34,7 +34,7 @@ export const Blog = <FaLink />;
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I have been programming as a hobby for about 6 years now, But just recently started making a career out of it. I am a knowledge driven person who learns quickly. I am known to be highly organised and effective in my work.Outside the professinal world; I spend my time building computers, 3d printing, Gaming, and streaming said games." ;
+  "I have been programming as a hobby for about 6 years now, But just recently started making a career out of it. I am a knowledge driven person who learns quickly. I am known to be highly organised and effective in my work.Outside the professinal world; I spend my time building computers, 3d printing, Gaming, and streaming said games.  You can reach me at phoenixceri@protonmail.com" ;
 
 /* Skills
  ************************************************************** 
