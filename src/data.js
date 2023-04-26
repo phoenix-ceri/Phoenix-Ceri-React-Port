@@ -12,7 +12,9 @@ import { SiJavascript, SiStyledcomponents, } from "react-icons/si";
 
 // Projects Images (add your images to the images directory and import below)
 import Logo from "./images/logo.svg";
-
+import Note from "./images/note.png";
+import Food from "./images/food.png";
+import Weather from "./images/weather.png";
 // Hero Images (add your images to the /images directory with the same names)
 import HeroLight from "./images/hero-light.jpg";
 import HeroDark from "./images/hero-dark.jpg";
@@ -96,15 +98,15 @@ export const filteredProjects = ["FoodieCentral", "notesapp", "WeatherOrNot"];
 export const projectCardImages = [
   {
     name: "FoodieCentral",
-    image: Logo,
+    image: Food,
   },
   {
     name: "notesapp",
-    image: Logo,
+    image: Note,
   },
   {
     name: "WeatherOrNot",
-    image: Logo,
+    image: Weather,
   },
 ];
 
