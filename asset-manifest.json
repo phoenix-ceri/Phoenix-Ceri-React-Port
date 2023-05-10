@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Phoenix-Ceri-React-Port/static/css/main.8d6a17ca.css",
-    "main.js": "/Phoenix-Ceri-React-Port/static/js/main.a8a3f342.js",
+    "main.js": "/Phoenix-Ceri-React-Port/static/js/main.8b69b558.js",
     "static/media/weather.png": "/Phoenix-Ceri-React-Port/static/media/weather.c17e4b591d9c894ba472.png",
     "static/media/note.png": "/Phoenix-Ceri-React-Port/static/media/note.22dfd88ce328b40a607e.png",
     "static/media/food.png": "/Phoenix-Ceri-React-Port/static/media/food.bb7647e58ffe1b7a456a.png",
@@ -12,10 +12,10 @@
     "static/media/GH.svg": "/Phoenix-Ceri-React-Port/static/media/GH.2abc5acbea5af2aab92f7a232ac9a157.svg",
     "index.html": "/Phoenix-Ceri-React-Port/index.html",
     "main.8d6a17ca.css.map": "/Phoenix-Ceri-React-Port/static/css/main.8d6a17ca.css.map",
-    "main.a8a3f342.js.map": "/Phoenix-Ceri-React-Port/static/js/main.a8a3f342.js.map"
+    "main.8b69b558.js.map": "/Phoenix-Ceri-React-Port/static/js/main.8b69b558.js.map"
   },
   "entrypoints": [
     "static/css/main.8d6a17ca.css",
-    "static/js/main.a8a3f342.js"
+    "static/js/main.8b69b558.js"
   ]
 }
